@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ace2230f-2daf-4bb8-b99e-1e481acfa216" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/internal/pagesData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/internal/pagesRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/internal/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/internal/themeData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/changelog/fastchar.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/changelog/fastchar.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/changelog/index.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/changelog/index.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/agency-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/agency-info.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/cache-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/cache-info.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/locker-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/locker-info.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/mq-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/mq-info.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/pubsub-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/pubsub-info.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/security-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/data-cache-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/data-xml-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/data-xml-info.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/datasource-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/interceptor-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/interceptor-info.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/overrider-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/overrider-info.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/param-converter-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/plugin-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/plugin-info.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/plugin.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/server-deploy.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/session-info.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/start-deploy.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/start-server.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/index.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/configs/algolia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/configs/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/configs/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/images/cglib_test_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/changelog/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/agency-info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/locker-info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/mq-info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/pubsub-info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/plugin-info.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fastchar-extjs-docs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/.temp/pages/extjs.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/.temp/pages/extjs.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/configs/algolia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/configs/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/configs/sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/dist/favicons/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/dist/images/logo-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/dist/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/dist/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/dist/js/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/css/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/favicons/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/images/cglib_test_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/images/fast-map-wrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/images/logo-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/images/maven_package_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/images/maven_package_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/public/js/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/styles/palette.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.vuepress/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/guid/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro_amz518/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro_amz518/src/assets/qrcode_for_public.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro_amz518/src/base/client-base.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro_amz518/src/js/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro_amz518/src/js/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro_amz518/src/pages/index/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro_amz518/src/pages/login/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pro_amz518/src/pages/login/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/.idea/fastchar-docs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/.idea/fastchar-docs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/components/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/components/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/internal/clientConfigs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/internal/clientConfigs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/internal/pagesComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/internal/pagesComponents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/internal/pagesData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/internal/pagesRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/internal/siteData.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/internal/siteData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/internal/themeData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/md-enhance/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/md-enhance/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/md-enhance/reveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/md-enhance/reveal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/404.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/404.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/404.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/404.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/base/base-work.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/base/base-work.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/base/base-work.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/base/base-work.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/base/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/base/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/base/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/base/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/agency-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/agency-info.html.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/cache-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/cache-info.html.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/cache-memory-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/cache-memory-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/cache-memory-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/cache-memory-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/fast-json-wrap.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/fast-json-wrap.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/fast-json-wrap.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/fast-json-wrap.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/fast-map-wrap.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/fast-map-wrap.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/fast-map-wrap.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/fast-map-wrap.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/json-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/json-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/json-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/json-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/locker-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/locker-info.html.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/mq-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/mq-info.html.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/properties-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/properties-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/properties-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/properties-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/properties.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/properties.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/properties.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/properties.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/pubsub-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/pubsub-info.html.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/security-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/security-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/security-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/template-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/template-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/template-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/template-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/yaml-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/yaml-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/component/yaml-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/component/yaml-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/action-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/action-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/action-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/action-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/action-out.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/action-out.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/action-out.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/action-out.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/base-work.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/base-work.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/base-work.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/base-work.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/cache-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/cache-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/cache-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/cache-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/component-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/component-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/component-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/component-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/data-cache-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/data-cache-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/data-cache-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/data-xml-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/data-xml-info.html.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/datasource-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/datasource-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/datasource-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/entity-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/entity-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/entity-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/entity-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/getting-started.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/getting-started.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/getting-started.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/getting-started.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/interceptor-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/interceptor-info.html.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/jdbc-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/jdbc-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/jdbc-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/jdbc-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/overrider-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/overrider-info.html.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/param-converter-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/param-converter-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/param-converter-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/param-converter.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/param-converter.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/param-converter.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/param-converter.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/param-valid-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/param-valid-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/param-valid-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/param-valid-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/param-validator-info.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/param-validator-info.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/param-validator-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/param-validator-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/server-deploy.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/server-deploy.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/server-deploy.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/session-info.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/session-info.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/session-info.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/start-deploy.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/start-deploy.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/start-deploy.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/start-server.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/start-server.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/start-server.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/system-init.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/system-init.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/guide/system-init.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/system-init.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/guide/plugin.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/plugin/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/plugin/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/plugin/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/plugin/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/question/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/question/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/pages/question/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/pages/question/index.html.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/sass-palette/hope-config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/sass-palette/hope-config.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/sass-palette/hope-inject.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/sass-palette/hope-inject.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/sass-palette/hope-palette.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/sass-palette/hope-palette.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/sass-palette/hope-style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/sass-palette/hope-style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/sass-palette/load-hope.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/sass-palette/load-hope.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/styles/palette.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/styles/palette.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/theme-hope/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/theme-hope/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/theme-hope/highlighter.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/theme-hope/highlighter.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/theme-hope/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/theme-hope/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/theme-hope/socialMedia.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/theme-hope/socialMedia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/.temp/vite-root/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/.temp/vite-root/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/configs/menus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/404.html-9b2580f7.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/404.html-9b2580f7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/404.html-ff018f06.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/404.html-ff018f06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/action-info.html-a7a521c3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/action-info.html-a7a521c3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/action-info.html-eda95ad1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/action-info.html-eda95ad1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/action-out.html-082c94f2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/action-out.html-082c94f2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/action-out.html-ae516133.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/action-out.html-ae516133.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/agency-info.html-a2ef6442.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/agency-info.html-a2ef6442.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/agency-info.html-ca58dc87.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/agency-info.html-ca58dc87.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/app-cf0e9707.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/app-cf0e9707.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/cache-info.html-35ec013b.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/cache-info.html-35ec013b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/cache-info.html-c631e1eb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/cache-info.html-c631e1eb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/cache-memory-info.html-93749f3f.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/cache-memory-info.html-93749f3f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/cache-memory-info.html-b9afd225.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/cache-memory-info.html-b9afd225.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/data-cache-info.html-6f665681.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/data-cache-info.html-6f665681.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/data-cache-info.html-e1b71cdb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/data-cache-info.html-e1b71cdb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/data-xml-info.html-7f98faef.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/data-xml-info.html-7f98faef.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/data-xml-info.html-fc002f37.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/data-xml-info.html-fc002f37.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/datasource-info.html-0cdc25dc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/datasource-info.html-0cdc25dc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/datasource-info.html-70f20320.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/datasource-info.html-70f20320.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/docsearch-1d421ddb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/docsearch-1d421ddb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/entity-info.html-09bf6d8f.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/entity-info.html-09bf6d8f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/entity-info.html-1b4d971c.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/entity-info.html-1b4d971c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/fast-json-wrap.html-1baca5db.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/fast-json-wrap.html-1baca5db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/fast-json-wrap.html-d2a73089.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/fast-json-wrap.html-d2a73089.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/fast-map-wrap.html-ac91e69f.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/fast-map-wrap.html-ac91e69f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/fast-map-wrap.html-dd4f1927.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/fast-map-wrap.html-dd4f1927.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/getting-started.html-02c62cc5.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/getting-started.html-02c62cc5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/getting-started.html-b241c246.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/getting-started.html-b241c246.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index-5161ad19.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index-5161ad19.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-08a6b42a.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-08a6b42a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-2e061922.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-2e061922.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-510c13a1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-510c13a1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-5ac8e6aa.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-5ac8e6aa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-6fd2e0f7.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-6fd2e0f7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-71e35392.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-71e35392.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-c2070cf9.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-c2070cf9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-e3aa02ce.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-e3aa02ce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-e511b01f.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-e511b01f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/index.html-e893c598.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/index.html-e893c598.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/interceptor-info.html-1091d266.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/interceptor-info.html-1091d266.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/interceptor-info.html-3c8ae319.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/interceptor-info.html-3c8ae319.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/jdbc-info.html-bb1cec77.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/jdbc-info.html-bb1cec77.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/jdbc-info.html-c25772f9.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/jdbc-info.html-c25772f9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/json-info.html-213b9a1a.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/json-info.html-213b9a1a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/json-info.html-23cf4dc5.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/json-info.html-23cf4dc5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/locker-info.html-c66f8b27.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/locker-info.html-c66f8b27.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/locker-info.html-d88e1eaf.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/locker-info.html-d88e1eaf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/mq-info.html-02d861ce.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/mq-info.html-02d861ce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/mq-info.html-1783e886.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/mq-info.html-1783e886.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/overrider-info.html-63673e98.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/overrider-info.html-63673e98.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/overrider-info.html-9523fb3a.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/overrider-info.html-9523fb3a.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/param-converter-info.html-7ca892c1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/param-converter-info.html-7ca892c1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/param-converter-info.html-8acb7a6c.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/param-converter-info.html-8acb7a6c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/param-validator-info.html-f25e8ee8.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/param-validator-info.html-f25e8ee8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/param-validator-info.html-fa15f17f.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/param-validator-info.html-fa15f17f.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/photoswipe.esm-5794cde2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/photoswipe.esm-5794cde2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/plugin-vue_export-helper-c27b6911.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/plugin-vue_export-helper-c27b6911.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/properties-info.html-558b5837.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/properties-info.html-558b5837.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/properties-info.html-bf647016.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/properties-info.html-bf647016.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/pubsub-info.html-175d0a3b.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/pubsub-info.html-175d0a3b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/pubsub-info.html-d70b8362.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/pubsub-info.html-d70b8362.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/security-info.html-95975175.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/security-info.html-95975175.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/security-info.html-b63e99af.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/security-info.html-b63e99af.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/session-info.html-3e223e40.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/session-info.html-3e223e40.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/session-info.html-58285629.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/session-info.html-58285629.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/start-deploy.html-4a7e9be3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/start-deploy.html-4a7e9be3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/start-deploy.html-c0ab86bb.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/start-deploy.html-c0ab86bb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/start-server.html-30b0bcf7.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/start-server.html-30b0bcf7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/start-server.html-58c51ccf.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/start-server.html-58c51ccf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/style-6608357f.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/style-6608357f.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/style-e9220a04.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/style-e9220a04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/system-init.html-68c85fc6.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/system-init.html-68c85fc6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/system-init.html-7fe3a188.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/system-init.html-7fe3a188.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/template-info.html-c61c00ae.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/template-info.html-c61c00ae.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/template-info.html-fdda75a4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/template-info.html-fdda75a4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/yaml-info.html-9c11d378.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/yaml-info.html-9c11d378.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/assets/yaml-info.html-ee712188.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/assets/yaml-info.html-ee712188.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/agency-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/agency-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/cache-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/cache-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/cache-memory-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/cache-memory-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/fast-json-wrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/fast-json-wrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/fast-map-wrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/fast-map-wrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/json-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/json-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/locker-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/locker-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/mq-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/mq-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/properties-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/properties-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/pubsub-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/pubsub-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/security-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/security-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/template-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/template-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/component/yaml-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/component/yaml-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/favicons/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/favicons/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/action-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/action-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/action-out.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/action-out.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/data-cache-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/data-cache-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/data-xml-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/data-xml-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/datasource-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/datasource-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/entity-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/entity-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/getting-started.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/getting-started.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/interceptor-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/interceptor-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/jdbc-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/jdbc-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/overrider-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/overrider-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/param-converter-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/param-converter-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/param-validator-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/param-validator-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/session-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/session-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/start-deploy.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/start-deploy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/start-server.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/start-server.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/guide/system-init.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/guide/system-init.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/images/fast-map-wrap.png" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/images/fast-map-wrap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/images/logo-dark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/images/logo-dark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/images/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/images/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/images/maven_package_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/images/maven_package_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/images/maven_package_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/images/maven_package_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/js/iconfont.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/public/js/iconfont.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/plugin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/plugin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/question/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/question/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/dist/sitemap.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/sitemap.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/public/favicons/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/public/images/fast-map-wrap.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/images/fast-map-wrap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/public/images/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/public/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/public/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/public/images/maven_package_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/images/maven_package_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/public/images/maven_package_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/dist/images/maven_package_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/public/js/iconfont.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/.vuepress/styles/palette.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/.vuepress/styles/palette.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/agency-info.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/cache-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/cache-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/cache-memory-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/cache-memory-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/fast-json-wrap.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/fast-json-wrap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/fast-map-wrap.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/fast-map-wrap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/json-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/json-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/locker-info.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/mq-info.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/properties-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/properties-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/pubsub-info.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/security-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/security-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/template-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/template-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/component/yaml-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/component/yaml-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/action-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/action-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/action-out.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/action-out.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/data-cache-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/data-cache-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/data-xml-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/data-xml-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/datasource-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/datasource-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/entity-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/entity-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/getting-started.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/getting-started.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/interceptor-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/interceptor-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/jdbc-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/jdbc-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/overrider-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/overrider-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/param-converter-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/param-converter-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/param-validator-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/param-validator-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/server-deploy.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/server-deploy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/session-info.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/session-info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/start-deploy.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/start-deploy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/start-server.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/start-server.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/guide/system-init.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/guide/system-init.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/plugin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/plugin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/docs/question/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/src/question/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastchar-docs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fastchar-docs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pro_amz518/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../pro_amz518/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pro_amz518/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pro_amz518/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pro_amz518/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pro_amz518/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pro_amz518/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2eww3gdGwsR2wdRk1nA19Q5uZWT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;croshe&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Janesen/工作/space_webstorm/fastchar-extjs-docs/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.docs:dev.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="docs:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="docs:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.docs:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace2230f-2daf-4bb8-b99e-1e481acfa216" name="Changes" comment="" />
+      <created>1712828751434</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712828751434</updated>
+      <workItem from="1712828752538" duration="4804000" />
+      <workItem from="1712990858816" duration="208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
